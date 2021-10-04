@@ -1,7 +1,7 @@
 # file-breaky
 A file corrupter witten for NodeJS that breaks files by adding random binary.
 
-## Prerequisits:
+## Prerequisites:
 > NodeJS
 
 ## Getting Started:
