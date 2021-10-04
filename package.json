@@ -1,0 +1,12 @@
+{
+  "name": "file-breaky",
+  "version": "1.0.0",
+  "description": "Breaks and corrupts any file.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "Nehan Yaser, Tahlil Amin",
+  "license": "MIT"
+}
