@@ -1,12 +1,14 @@
 # file-breaky
-Breaks and corrupts any file.
+A file corrupter witten for NodeJS that breaks files by adding random binary.
+
+## Prerequisits:
+> NodeJS
 
 ## Getting Started:
-> Clone the repository
+> Clone the repository or download it.
 ```
 git clone https://github.com/webdevsint/file-breaky.git
 ```
-or download it.
 
 > Navigate to the folder containing the code.  
 
