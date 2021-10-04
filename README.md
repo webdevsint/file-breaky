@@ -18,4 +18,4 @@ git clone https://github.com/webdevsint/file-breaky.git
 
 ```npm start <file path>```  
   
-Credit to [Tahlil](https://github.com/tahlilma) for the binary generator.
+Credit to [Tahlil](https://github.com/tahlilma) for the binary generator which he thankfully MIT licensed.
