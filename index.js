@@ -8,7 +8,7 @@ if (fileName === undefined) {
   const file = path.resolve(__dirname, fileName);
   const fileData = fs.readFileSync(file, "utf-8");
 
-  // generates random binary
+  // generates a random binary
   const data = Array.from({ length: 2 ** 12 }, () => {
     return Math.floor(Math.random() * (1 - 0 + 1));
   });   // credit to tahlil     https://github.com/tahlilma/
